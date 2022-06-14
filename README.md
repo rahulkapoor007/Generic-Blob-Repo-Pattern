@@ -57,3 +57,10 @@ There is an API endpoints with which you can test:
      "FileUrl":""
  }
  ```
+## Contributing
+
+Contributions are always welcome!
+
+This generic repository is created with the intent of helping people who have doubts on how to upload content to blob with reusing there code as much as possible.
+
+If you have doubts about the implementation details or if you find a bug, please, open an issue. If you have ideas on how to improve the API or if you want to add a new functionality or fix a bug, please, send a pull request.
