@@ -1,0 +1,17 @@
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\bin\Debug\net6.0\AzureRepositories.Implementation.deps.json
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\bin\Debug\net6.0\AzureRepositories.Implementation.dll
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\bin\Debug\net6.0\AzureRepositories.Implementation.pdb
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\bin\Debug\net6.0\AzureRepositories.Abstraction.dll
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\bin\Debug\net6.0\AzureRepositories.Common.dll
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\bin\Debug\net6.0\AzureRepositories.Abstraction.pdb
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\bin\Debug\net6.0\AzureRepositories.Common.pdb
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\obj\Debug\net6.0\AzureRepositories.Implementation.csproj.AssemblyReference.cache
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\obj\Debug\net6.0\AzureRepositories.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\obj\Debug\net6.0\AzureRepositories.Implementation.AssemblyInfoInputs.cache
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\obj\Debug\net6.0\AzureRepositories.Implementation.AssemblyInfo.cs
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\obj\Debug\net6.0\AzureRepositories.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\obj\Debug\net6.0\AzureRepositories.Implementation.csproj.CopyComplete
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\obj\Debug\net6.0\AzureRepositories.Implementation.dll
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\obj\Debug\net6.0\refint\AzureRepositories.Implementation.dll
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\obj\Debug\net6.0\AzureRepositories.Implementation.pdb
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Implementation\obj\Debug\net6.0\ref\AzureRepositories.Implementation.dll

@@ -1,0 +1,12 @@
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Abstraction\bin\Debug\net6.0\AzureRepositories.Abstraction.deps.json
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Abstraction\bin\Debug\net6.0\AzureRepositories.Abstraction.dll
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Abstraction\bin\Debug\net6.0\AzureRepositories.Abstraction.pdb
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Abstraction\obj\Debug\net6.0\AzureRepositories.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Abstraction\obj\Debug\net6.0\AzureRepositories.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Abstraction\obj\Debug\net6.0\AzureRepositories.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Abstraction\obj\Debug\net6.0\AzureRepositories.Abstraction.AssemblyInfo.cs
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Abstraction\obj\Debug\net6.0\AzureRepositories.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Abstraction\obj\Debug\net6.0\AzureRepositories.Abstraction.dll
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Abstraction\obj\Debug\net6.0\refint\AzureRepositories.Abstraction.dll
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Abstraction\obj\Debug\net6.0\AzureRepositories.Abstraction.pdb
+C:\Users\Appinventiv\source\repos\GenericBlobStorage\AzureRepositories.Abstraction\obj\Debug\net6.0\ref\AzureRepositories.Abstraction.dll

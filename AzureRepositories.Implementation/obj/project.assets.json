@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AzureRepositories.Abstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AzureRepositories.Abstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AzureRepositories.Abstraction.dll": {}
+        }
+      },
+      "AzureRepositories.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AzureRepositories.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AzureRepositories.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AzureRepositories.Abstraction/1.0.0": {
+      "type": "project",
+      "path": "../AzureRepositories.Abstraction/AzureRepositories.Abstraction.csproj",
+      "msbuildProject": "../AzureRepositories.Abstraction/AzureRepositories.Abstraction.csproj"
+    },
+    "AzureRepositories.Common/1.0.0": {
+      "type": "project",
+      "path": "../AzureRepositories.Common/AzureRepositories.Common.csproj",
+      "msbuildProject": "../AzureRepositories.Common/AzureRepositories.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AzureRepositories.Abstraction >= 1.0.0",
+      "AzureRepositories.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ACER\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\GITHUB\\GenericBlobStorage\\AzureRepositories.Implementation\\AzureRepositories.Implementation.csproj",
+      "projectName": "AzureRepositories.Implementation",
+      "projectPath": "G:\\GITHUB\\GenericBlobStorage\\AzureRepositories.Implementation\\AzureRepositories.Implementation.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "G:\\GITHUB\\GenericBlobStorage\\AzureRepositories.Implementation\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "G:\\GITHUB\\GenericBlobStorage\\AzureRepositories.Abstraction\\AzureRepositories.Abstraction.csproj": {
+              "projectPath": "G:\\GITHUB\\GenericBlobStorage\\AzureRepositories.Abstraction\\AzureRepositories.Abstraction.csproj"
+            },
+            "G:\\GITHUB\\GenericBlobStorage\\AzureRepositories.Common\\AzureRepositories.Common.csproj": {
+              "projectPath": "G:\\GITHUB\\GenericBlobStorage\\AzureRepositories.Common\\AzureRepositories.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

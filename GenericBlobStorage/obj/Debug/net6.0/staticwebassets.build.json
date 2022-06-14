@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LzTWhfyLAHwdkwbRGTYf16AMJcU+lCRcglvLRyhrGaY=",
+  "Source": "GenericBlobStorage",
+  "BasePath": "_content/GenericBlobStorage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
